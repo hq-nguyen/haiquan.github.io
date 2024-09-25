@@ -24,5 +24,5 @@ social: true # includes social icons at the bottom of the page
 
 **Inspirational Quotes:**
 <blockquote>
-<p><q><i>"Love is what happens when we stop trying to figure out who deserves it."</i></q> - <a href="https://www.youtube.com/watch?v=gUV5DJb6KGs">Karen Faith</a></p>
+<p><q><i>Love is what happens when we stop trying to figure out who deserves it.</i></q> - <a href="https://www.youtube.com/watch?v=gUV5DJb6KGs">Karen Faith</a></p>
 </blockquote>
