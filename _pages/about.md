@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://daihoc.fpt.edu.vn/en/'>FPT University, Ho Chi Minh Campus</a>
 
